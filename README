@@ -1,0 +1,16 @@
+surf - simple webkit-based browser
+==================================
+This is a modified and patched version of surf by Skye.
+Credits to patches can be found in the diff files which are included in the patches/ folder.
+
+Requirements
+------------
+In order to build surf you need GTK+ and Webkit/GTK+ header files.
+
+
+Installation
+------------
+Installation is as simple as the following:
+
+    make clean install
+
